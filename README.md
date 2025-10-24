@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="FoldDevtools.png" width="160" height="160" alt="logo" />
+<img src="docs/FoldDevtools.png" width="160" height="160" alt="logo" />
 
 # FoldDevtools
 
@@ -8,7 +8,7 @@
 
 > Using chrome devtools to debug WebView on Android.
 
-| <img src="Screenshot.jpg" width="216" height="480" /> | [Download from releases](https://github.com/achyuki/FoldDevtools/releases) |
+| <img src="docs/Screenshot.jpg" width="216" height="480" /> | [Download from releases](https://github.com/achyuki/FoldDevtools/releases) |
 -|-
 
 # Features
